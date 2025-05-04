@@ -1,0 +1,12 @@
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\bin\Debug\net8.0\eCommerce.SharedLibarary.deps.json
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\bin\Debug\net8.0\eCommerce.SharedLibarary.dll
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\bin\Debug\net8.0\eCommerce.SharedLibarary.pdb
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\obj\Debug\net8.0\eCommerce.SharedLibarary.csproj.AssemblyReference.cache
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\obj\Debug\net8.0\eCommerce.SharedLibarary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\obj\Debug\net8.0\eCommerce.SharedLibarary.AssemblyInfoInputs.cache
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\obj\Debug\net8.0\eCommerce.SharedLibarary.AssemblyInfo.cs
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\obj\Debug\net8.0\eCommerce.SharedLibarary.csproj.CoreCompileInputs.cache
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\obj\Debug\net8.0\eCommerce.SharedLibarary.dll
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\obj\Debug\net8.0\refint\eCommerce.SharedLibarary.dll
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\obj\Debug\net8.0\eCommerce.SharedLibarary.pdb
+D:\ITI\MicroServicesProject\DemoECommerce.SharedLibararySolution\eCommerce.SharedLibarary\obj\Debug\net8.0\ref\eCommerce.SharedLibarary.dll

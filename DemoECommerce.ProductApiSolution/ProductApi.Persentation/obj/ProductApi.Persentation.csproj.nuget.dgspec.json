@@ -1,0 +1,331 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Persentation\\ProductApi.Persentation.csproj": {}
+  },
+  "projects": {
+    "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
+        "projectName": "ProductApi.Application",
+        "projectPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj": {
+                "projectPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj"
+              },
+              "D:\\ITI\\MicroServicesProject\\DemoECommerce.SharedLibararySolution\\eCommerce.SharedLibarary\\eCommerce.SharedLibarary.csproj": {
+                "projectPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.SharedLibararySolution\\eCommerce.SharedLibarary\\eCommerce.SharedLibarary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
+        "projectName": "ProductApi.Domain",
+        "projectPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+        "projectName": "ProductApi.Infrastructure",
+        "projectPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj": {
+                "projectPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Persentation\\ProductApi.Persentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Persentation\\ProductApi.Persentation.csproj",
+        "projectName": "ProductApi.Persentation",
+        "projectPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Persentation\\ProductApi.Persentation.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Persentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj": {
+                "projectPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\MicroServicesProject\\DemoECommerce.SharedLibararySolution\\eCommerce.SharedLibarary\\eCommerce.SharedLibarary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\MicroServicesProject\\DemoECommerce.SharedLibararySolution\\eCommerce.SharedLibarary\\eCommerce.SharedLibarary.csproj",
+        "projectName": "eCommerce.SharedLibarary",
+        "projectPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.SharedLibararySolution\\eCommerce.SharedLibarary\\eCommerce.SharedLibarary.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\MicroServicesProject\\DemoECommerce.SharedLibararySolution\\eCommerce.SharedLibarary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

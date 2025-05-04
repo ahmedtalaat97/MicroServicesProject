@@ -1,0 +1,11 @@
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.deps.json
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.dll
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.pdb
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfoInputs.cache
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfo.cs
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.dll
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll

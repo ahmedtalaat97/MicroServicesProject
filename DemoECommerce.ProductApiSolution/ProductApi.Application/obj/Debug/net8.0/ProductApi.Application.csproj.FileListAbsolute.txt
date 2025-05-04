@@ -1,0 +1,17 @@
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.deps.json
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.dll
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Application.pdb
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfoInputs.cache
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.AssemblyInfo.cs
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.dll
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\refint\ProductApi.Application.dll
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.pdb
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ref\ProductApi.Application.dll
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibarary.dll
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.dll
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\eCommerce.SharedLibarary.pdb
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net8.0\ProductApi.Domain.pdb
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.AssemblyReference.cache
+D:\ITI\MicroServicesProject\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net8.0\ProductApi.Application.csproj.CopyComplete
